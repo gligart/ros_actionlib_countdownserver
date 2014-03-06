@@ -1,0 +1,9 @@
+# Goal definition
+int32 number
+---
+# result
+bool executed
+---
+#feedback
+int32 elapsed
+

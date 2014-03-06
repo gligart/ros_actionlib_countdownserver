@@ -1,0 +1,17 @@
+<package>
+  <description brief="countdown">
+
+     countdown
+
+  </description>
+  <author>Gipo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/countdown</url>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="actionlib"/>
+
+</package>
+
+
